@@ -1,0 +1,24 @@
+{
+    "mycart": "Моя корзина",
+    "total": "Всего",
+    "delivery": "Доставка",
+    "checkout": "Оформить",
+    "addadress": "Добавить адрес",
+
+    "productdetails": "Описание продукта",
+    "shop": "Магазин",
+    "details": "Описание",
+    "features": "Особенности",
+    "selectcolorandcapacity": "Выбрать цвет и ёмкость",
+    "addtocart": "Добавить в корзину",
+
+    "selectcategory": "Выбрать категорию",
+    "viewall": "смотреть все",
+    "search": "поиск",
+    "hotsales": "Распродажа",
+    "bestsellers": "Самые продаваемые",
+    "seemore": "Смотреть ещё",
+    "explorer": "Проводник"
+
+      
+}

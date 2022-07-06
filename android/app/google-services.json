@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092832344475",
+    "project_id": "shopest-aa399",
+    "storage_bucket": "shopest-aa399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092832344475:android:0726fd086662849a47893e",
+        "android_client_info": {
+          "package_name": "com.example.shopest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092832344475-1ctotgmi9t6v7ebfcnkdph0naiec7sde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKOV5iEJitNe7OqaX9ZBGQXR2c0ws5gJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092832344475-1ctotgmi9t6v7ebfcnkdph0naiec7sde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

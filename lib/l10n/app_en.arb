@@ -1,0 +1,24 @@
+{
+    "mycart": "My cart",
+    "total": "Total",
+    "delivery": "Delivery",
+    "checkout": "Checkout",
+    "addadress": "Add adress",
+  
+    "productdetails": "Product details",
+    "shop": "Shop",
+    "details": "Details",
+    "features": "Features",
+    "selectcolorandcapacity": "Select color and capacity",
+    "addtocart": "Add to cart",
+
+    "selectcategory": "Select category",
+    "viewall": "view all",
+    "search": "search",
+    "hotsales": "Hot sales",
+    "bestsellers": "Best sellers",
+    "seemore": "See more",
+    "explorer": "Explorer"
+
+
+}

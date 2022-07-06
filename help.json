@@ -1,0 +1,34 @@
+I/flutter ( 7966: [
+    {_id: 61dd4275d4fd1466000a25bc, 
+home_store: [
+            {id: 1, 
+    is_new: true, 
+    title: Iphone 12, 
+    subtitle: Súper. Mega. Rápido., 
+    picture: https: //img.ibxk.com.br/2020/09/23/23104013057475.jpg?w=1120&h=420&mode=crop&scale=both, 
+    is_buy: true
+            },
+            {id: 2, 
+    title: Samsung Galaxy A71, 
+    subtitle: Súper. Mega. Rápido., 
+    picture: https: //cdn-2.tstatic.net/kupang/foto/bank/images/pre-order-samsung-galaxy-a71-laris-manis-inilah-rekomendasi-ponsel-harga-rp-6-jutaan.jpg, 
+    is_buy: true
+            },
+            {id: 3, 
+                title: Xiaomi Mi 11 ultra, 
+                subtitle: Súper. Mega. Rápido., 
+                picture: https: //static.digit.in/default/942998b8b4d3554a6259aeb1a0124384dbe0d4d5.jpeg, 
+                is_buy: true}], 
+        best_seller: [
+                    {id: 111, 
+                        is_favorites: true, 
+                        title: Samsung Galaxy s20 Ultra, 
+                        priae_without_discount: 1047, 
+                        discount_price: 1500, 
+                        picture: https: //shop.gadgetufa.ru/images/upload/52534-smartfon-samsung-galaxy-s20-ultra-12-128-chernyj_1024.jpg}, 
+                        {id: 222, 
+                            is_favorites: true, 
+                            title: Xiaomi Mi 10 Pro, 
+                            price_without_discount: 400, 
+                            discount_price: 300, 
+                            picture: https: //mi92.ru/wp-content 
